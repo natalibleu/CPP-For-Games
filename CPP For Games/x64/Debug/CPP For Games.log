@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\natalie\Downloads\my_projects\CPP For Games\CPP For Games\Source.cpp(31,14): warning C4804: '<': unsafe use of type 'bool' in operation
+  CPP For Games.vcxproj -> C:\Users\natalie\Downloads\my_projects\CPP For Games\x64\Debug\CPP For Games.exe
