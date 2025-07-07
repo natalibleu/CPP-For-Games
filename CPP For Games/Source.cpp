@@ -28,7 +28,7 @@ int main()
 	{
 		std::cout << "Hello " << name << ".You are very wise for your age." << std::endl;
 	}
-	else if (25 < age < 50)
+	else if (25 < age && age < 50)
 	{
 		std::cout << "Hello " << name << ", you are already "<< age <<" years old." << std::endl;
 	}
