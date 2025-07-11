@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\natalie\Downloads\my_projects\CPP For Games\Simple Calculator\main.cpp(56,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\natalie\Downloads\my_projects\CPP For Games\Simple Calculator\main.cpp(59,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\natalie\Downloads\my_projects\CPP For Games\Simple Calculator\main.cpp(62,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\natalie\Downloads\my_projects\CPP For Games\Simple Calculator\main.cpp(65,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Simple Calculator.vcxproj -> C:\Users\natalie\Downloads\my_projects\CPP For Games\x64\Debug\Simple Calculator.exe
