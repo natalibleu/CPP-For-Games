@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP For Games", "CPP For Ga
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Simple Calculator", "Simple Calculator\Simple Calculator.vcxproj", "{5D2168F5-B99D-46EF-BAF4-BD40D8A734D8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Swap", "Swap\Swap.vcxproj", "{ED710A38-21E1-4281-A296-B47D9BD2214E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,8 +33,19 @@ Global
 		{5D2168F5-B99D-46EF-BAF4-BD40D8A734D8}.Release|x64.Build.0 = Release|x64
 		{5D2168F5-B99D-46EF-BAF4-BD40D8A734D8}.Release|x86.ActiveCfg = Release|Win32
 		{5D2168F5-B99D-46EF-BAF4-BD40D8A734D8}.Release|x86.Build.0 = Release|Win32
+		{ED710A38-21E1-4281-A296-B47D9BD2214E}.Debug|x64.ActiveCfg = Debug|x64
+		{ED710A38-21E1-4281-A296-B47D9BD2214E}.Debug|x64.Build.0 = Debug|x64
+		{ED710A38-21E1-4281-A296-B47D9BD2214E}.Debug|x86.ActiveCfg = Debug|Win32
+		{ED710A38-21E1-4281-A296-B47D9BD2214E}.Debug|x86.Build.0 = Debug|Win32
+		{ED710A38-21E1-4281-A296-B47D9BD2214E}.Release|x64.ActiveCfg = Release|x64
+		{ED710A38-21E1-4281-A296-B47D9BD2214E}.Release|x64.Build.0 = Release|x64
+		{ED710A38-21E1-4281-A296-B47D9BD2214E}.Release|x86.ActiveCfg = Release|Win32
+		{ED710A38-21E1-4281-A296-B47D9BD2214E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E548D4FA-6C99-49AB-AEF7-CB12C962515D}
 	EndGlobalSection
 EndGlobal
